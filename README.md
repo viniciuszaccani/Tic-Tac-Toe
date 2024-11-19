@@ -2,4 +2,4 @@
 
 Estudo de React, revisando conteudos.
 
-Mais detalhes no README serão adicionados em breve.
+Projeto em andamento. Mais detalhes serão adicionados no README em breve.
