@@ -90,10 +90,6 @@ ul {
   gap: 30px;
   border-radius: 10px;
 }
-
-.game-info {
-  
-}
 li::marker {
   content: none;
 }
